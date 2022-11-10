@@ -1,0 +1,75 @@
+# 
+# This is the geometry file that corresponds to the current relaxation step.
+# If you do not want this file to be written, set the "write_restart_geometry" flag to .false.
+#  aims_uuid : A2E2AC20-3A0F-4B74-A64F-7A8050780EA7                                
+# 
+lattice_vector     14.87290147      0.77734890      0.03379700
+lattice_vector     -6.51586904      9.91977451     -0.06861288
+lattice_vector     -0.84655432     -0.42574022      4.38965735
+atom_frac       1.00363644      0.40923824      0.70256510 C
+atom_frac       0.56928026      0.57824346      0.73732427 C
+atom_frac       0.45124348      0.02334741      0.67285876 C
+atom_frac       0.55008000      0.96113262      0.26201752 C
+atom_frac       0.43198378      0.40625441      0.19736545 C
+atom_frac      -0.00238701      0.57519555      0.23210986 C
+atom_frac       0.91072489      0.41609802      0.60274440 C
+atom_frac       0.60350651      0.50832771      0.58938038 C
+atom_frac       0.54191162      0.12439892      0.58395531 C
+atom_frac       0.58984034      0.09331417      0.35794347 C
+atom_frac       0.53338264      0.42069569      0.30676218 C
+atom_frac       0.90651387      0.49756553      0.35102293 C
+atom_frac       0.09052464      0.56834340      0.33194789 C
+atom_frac       0.39775519      0.47617127      0.34529655 C
+atom_frac       0.45939408      0.86008604      0.35084616 C
+atom_frac       0.41146452      0.89116586      0.57687779 C
+atom_frac       0.46788195      0.56380862      0.62791757 C
+atom_frac       0.09473628      0.48687409      0.58365326 C
+atom_frac       1.01042775      0.32241492      0.00580367 Cl
+atom_frac       0.64442125      0.66626457      0.08025872 Cl
+atom_frac       0.40244115      0.05907698      0.95137707 Cl
+atom_frac       0.59888869      0.92542253     -0.01652281 Cl
+atom_frac       0.35684040      0.31823603      0.85442721 Cl
+atom_frac      -0.00917089      0.66203774      0.92890492 Cl
+atom_frac       0.70199754      0.37331679      0.46907237 Fe
+atom_frac       0.29925735      0.61117412      0.46558811 Fe
+atom_frac       0.82881067      0.36061828      0.71819366 O
+atom_frac       0.69149886      0.51140779      0.67761012 O
+atom_frac       0.58852370      0.24369007      0.68102441 O
+atom_frac       0.66299307      0.19062833      0.26396204 O
+atom_frac       0.57239727      0.36669582      0.17981455 O
+atom_frac       0.81630424      0.48886054      0.25905585 O
+atom_frac       0.17244451      0.62383842      0.21651526 O
+atom_frac       0.30976319      0.47308677      0.25706486 O
+atom_frac       0.41275209      0.74080535      0.25366101 O
+atom_frac       0.33828695      0.79384616      0.67075790 O
+atom_frac       0.42886107      0.61780494      0.75483625 O
+atom_frac       0.18494737      0.49558250      0.67563642 O
+atom_frac       0.72706579      0.89752778      0.59926269 C
+atom_frac       0.85346374      0.09871437      0.39317604 C
+atom_frac       0.84944444     -0.08090763      0.41179930 H
+atom_frac       0.74830732     -0.08614583      0.15791727 H
+atom_frac       0.66678971      0.92753518      0.55337521 H
+atom_frac       0.79329515      0.12792846      0.32917151 H
+atom_frac       0.77766929      0.93999464      0.83593862 H
+atom_frac       0.90068831      0.14276169      0.62172893 H
+atom_frac       0.68847485      0.78995498      0.58498601 H
+atom_frac       0.90418018      0.13046087      0.22607225 H
+atom_frac       0.79713043     -0.04696312      0.38367311 N
+atom_frac       0.27434224      0.08711324      0.33563477 C
+atom_frac       0.14795701      0.88590682      0.54169510 C
+atom_frac       0.25306444      1.07079176      0.77693018 H
+atom_frac       0.15191971      1.06548899      0.52293831 H
+atom_frac       0.22375714      0.04466694      0.09892518 H
+atom_frac       0.10081795      0.84183981      0.31308844 H
+atom_frac       0.33461635      0.05710304      0.38154288 H
+atom_frac       0.20813729      0.85672895      0.60601287 H
+atom_frac       0.31293480      0.19468934      0.34995640 H
+atom_frac       0.09716480      0.85413622      0.70859882 H
+atom_frac       0.20425618      1.03157783      0.55116081 N
+# 
+# What follows is the current estimated Hessian matrix constructed by the BFGS algorithm.
+# This is NOT the true Hessian matrix of the system.
+# If you do not want this information here, switch it off using the "hessian_to_restart_geometry" keyword.
+# 
+trust_radius             0.1323349540
+hessian_file
